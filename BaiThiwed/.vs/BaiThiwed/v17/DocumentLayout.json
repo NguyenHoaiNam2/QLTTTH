@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|d:\\hoc\\wed\\codewed\\thi\\wed\\baithiwed\\baithiwed\\controllers\\qlteachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|solutionrelative:baithiwed\\controllers\\qlteachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|d:\\hoc\\wed\\codewed\\thi\\wed\\baithiwed\\baithiwed\\views\\qlteacher\\teacherindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|solutionrelative:baithiwed\\views\\qlteacher\\teacherindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|d:\\hoc\\wed\\codewed\\thi\\wed\\baithiwed\\baithiwed\\views\\qlteacher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|solutionrelative:baithiwed\\views\\qlteacher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|d:\\hoc\\wed\\codewed\\thi\\wed\\baithiwed\\baithiwed\\views\\qlteacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|solutionrelative:baithiwed\\views\\qlteacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|d:\\hoc\\wed\\codewed\\thi\\wed\\baithiwed\\baithiwed\\controllers\\indexaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|solutionrelative:baithiwed\\controllers\\indexaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|d:\\hoc\\wed\\codewed\\thi\\wed\\baithiwed\\baithiwed\\views\\qlteacher\\createteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|solutionrelative:baithiwed\\views\\qlteacher\\createteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|d:\\hoc\\wed\\codewed\\thi\\wed\\baithiwed\\baithiwed\\views\\qlteacher\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|solutionrelative:baithiwed\\views\\qlteacher\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|d:\\hoc\\wed\\codewed\\thi\\wed\\baithiwed\\baithiwed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|solutionrelative:baithiwed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|d:\\hoc\\wed\\codewed\\thi\\wed\\baithiwed\\baithiwed\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|solutionrelative:baithiwed\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|d:\\hoc\\wed\\codewed\\thi\\wed\\baithiwed\\baithiwed\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6270B917-20CB-46D7-8DAA-87BC41DC72B8}|BaiThiwed\\BaiThiwed.csproj|solutionrelative:baithiwed\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Views\\QLTeacher\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BaiThiwed\\Views\\QLTeacher\\Delete.cshtml",
+              "ToolTip": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Views\\QLTeacher\\Delete.cshtml",
+              "RelativeToolTip": "BaiThiwed\\Views\\QLTeacher\\Delete.cshtml",
+              "ViewState": "AgIAABgAAACAMjMzMzMDwC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T01:11:56.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Views\\QLTeacher\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BaiThiwed\\Views\\QLTeacher\\Edit.cshtml",
+              "ToolTip": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Views\\QLTeacher\\Edit.cshtml",
+              "RelativeToolTip": "BaiThiwed\\Views\\QLTeacher\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T01:10:54.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexAccountController.cs",
+              "DocumentMoniker": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Controllers\\IndexAccountController.cs",
+              "RelativeDocumentMoniker": "BaiThiwed\\Controllers\\IndexAccountController.cs",
+              "ToolTip": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Controllers\\IndexAccountController.cs",
+              "RelativeToolTip": "BaiThiwed\\Controllers\\IndexAccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T01:02:46.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "BaiThiwed\\Models\\Teacher.cs",
+              "ToolTip": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Models\\Teacher.cs",
+              "RelativeToolTip": "BaiThiwed\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:04:17.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTeacher.cshtml",
+              "DocumentMoniker": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Views\\QLTeacher\\CreateTeacher.cshtml",
+              "RelativeDocumentMoniker": "BaiThiwed\\Views\\QLTeacher\\CreateTeacher.cshtml",
+              "ToolTip": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Views\\QLTeacher\\CreateTeacher.cshtml",
+              "RelativeToolTip": "BaiThiwed\\Views\\QLTeacher\\CreateTeacher.cshtml",
+              "ViewState": "AgIAABwAAACAJTMzMzMLwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T04:02:49.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherIndex.cshtml",
+              "DocumentMoniker": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Views\\QLTeacher\\TeacherIndex.cshtml",
+              "RelativeDocumentMoniker": "BaiThiwed\\Views\\QLTeacher\\TeacherIndex.cshtml",
+              "ToolTip": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Views\\QLTeacher\\TeacherIndex.cshtml",
+              "RelativeToolTip": "BaiThiwed\\Views\\QLTeacher\\TeacherIndex.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T03:51:10.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLTeacherController.cs",
+              "DocumentMoniker": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Controllers\\QLTeacherController.cs",
+              "RelativeDocumentMoniker": "BaiThiwed\\Controllers\\QLTeacherController.cs",
+              "ToolTip": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Controllers\\QLTeacherController.cs",
+              "RelativeToolTip": "BaiThiwed\\Controllers\\QLTeacherController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAuwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:48:23.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Program.cs",
+              "RelativeDocumentMoniker": "BaiThiwed\\Program.cs",
+              "ToolTip": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Program.cs",
+              "RelativeToolTip": "BaiThiwed\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:32:50.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Views\\QLTeacher\\Details.cshtml",
+              "RelativeDocumentMoniker": "BaiThiwed\\Views\\QLTeacher\\Details.cshtml",
+              "ToolTip": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Views\\QLTeacher\\Details.cshtml",
+              "RelativeToolTip": "BaiThiwed\\Views\\QLTeacher\\Details.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCgAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T05:39:01.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BaiThiwed\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Hoc\\wed\\codewed\\thi\\wed\\BaiThiwed\\BaiThiwed\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BaiThiwed\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAE4AAAAA/v///38ZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T00:54:38.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

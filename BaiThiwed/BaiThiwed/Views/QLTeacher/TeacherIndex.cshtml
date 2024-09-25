@@ -1,0 +1,47 @@
+﻿@model IEnumerable<BaiThiwed.Models.Teacher>
+
+@{
+    ViewData["Title"] = "TeacherIndex";
+    int stt = 1;
+}
+
+<h2>Danh sách giáo viên</h2>
+
+<form method="get" action="@Url.Action("TeacherIndex", "QLTeacher")" class="mb-4">
+    <div class="input-group">
+        <input type="text" name="searchTerm" class="form-control" placeholder="Tìm kiếm giáo viên" value="@ViewData["SearchTerm"]" />
+        <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+    </div>
+</form>
+
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th style="width: 10%;">STT</th>
+            <th style="width: 30%;">Mã số</th>
+            <th style="width: 60%;">Tên</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var teacher in Model)
+        {
+            <tr>
+                <td>@stt</td>
+                <td>
+                    <a href="@Url.Action("Details", "QLTeacher", new { id = teacher.Id })" class="">
+                        @teacher.TeacherCode
+                    </a>
+                </td>
+                <td>
+                    <a href="@Url.Action("Details", "QLTeacher", new { id = teacher.Id })" class="">
+                        @teacher.Name
+                    </a>
+                </td>
+            </tr>
+            stt++;
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("CreateTeacher", "QLTeacher")" class="btn btn-success">Thêm giáo viên</a>

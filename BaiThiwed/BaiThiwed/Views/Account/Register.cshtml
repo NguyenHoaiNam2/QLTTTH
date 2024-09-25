@@ -1,0 +1,105 @@
+﻿
+@{
+    ViewData["Title"] = "Register";
+}
+
+@model Register_ViewModel
+
+<style>
+    .register-container {
+        width: 100%;
+        max-width: 400px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: left;
+    }
+
+        .register-container h2 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .register-container p {
+            font-size: 14px;
+            margin-bottom: 20px;
+            color: #666;
+        }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 14px;
+    }
+
+    .btn-primary {
+        width: 100%;
+        padding: 10px;
+        background-color: #4a00e0;
+        border: none;
+        color: white;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+        .btn-primary:hover {
+            background-color: #3700b3;
+        }
+
+    .login-link {
+        display: block;
+        margin-top: 20px;
+        font-size: 14px;
+    }
+</style>
+
+<div class="register-container">
+    <h2>Register</h2>
+    <p>Vui lòng điền vào mẫu này để đăng ký.</p>
+
+    <form action="@Url.Action("Register", "Account")" method="post">
+        @Html.AntiForgeryToken()
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Username)
+            @Html.TextBoxFor(m => m.Username, new { @class = "form-control", placeholder = "username" })
+            @Html.ValidationMessageFor(m => m.Username)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Email)
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Email" })
+            @Html.ValidationMessageFor(m => m.Email)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Password)
+            @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "password" })
+            @Html.ValidationMessageFor(m => m.Password)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.ConfirmPassword)
+            @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control", placeholder = "Repeat password" })
+            @Html.ValidationMessageFor(m => m.ConfirmPassword)
+        </div>
+
+        <button type="submit" class="btn btn-primary">Register</button>
+
+        <p>Bạn đã có tài khoản?<a href="@Url.Action("Login", "Account")">Log in.</a>.</p>
+
+    </form>
+</div>
+
+@{
+    Layout = null;
+}

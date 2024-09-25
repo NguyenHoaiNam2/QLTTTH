@@ -1,0 +1,45 @@
+﻿@model BaiThiwed.Models.Teacher
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Chi tiết giáo viên</h1>
+
+<div class="form-group">
+    <label>Mã số giáo viên:</label>
+    <p>@Model.TeacherCode</p>
+</div>
+
+<div class="form-group">
+    <label>Tên giáo viên:</label>
+    <p>@Model.Name</p>
+</div>
+
+<div class="form-group">
+    <label>Email:</label>
+    <p>@Model.Email</p>
+</div>
+
+<div class="form-group">
+    <label>Số điện thoại:</label>
+    <p>@Model.PhoneNumber</p>
+</div>
+
+<div class="form-group">
+    <label>Môn học:</label>
+    <p>@Model.Subject</p>
+</div>
+
+<div class="form-group">
+    <label>Ngày gia nhập:</label>
+    <p>@Model.JoinDate.ToString("dd/MM/yyyy")</p>
+</div>
+
+<div>
+    <a href="@Url.Action("Edit", "QLTeacher", new { id = Model.Id })" class="btn btn-warning">Sửa</a>
+    <a href="@Url.Action("Delete", "QLTeacher", new { id = Model.Id })" class="btn btn-danger">Xóa</a>
+    <a href="@Url.Action("TeacherIndex", "QLTeacher")" class="btn btn-secondary">Quay lại</a>
+</div>
+
+
